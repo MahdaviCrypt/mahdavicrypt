@@ -2,14 +2,14 @@
 
 # Mahdi Mahdavi
 
-Postdoctoral researcher in Applied Cryptography and Privacy Enhancing Technologies (PETs) at Universitat Oberta de Catalunya (UOC).
+Postdoctoral researcher in Cryptography and Privacy Enhancing Technologies (PETs) at Universitat Oberta de Catalunya (UOC).
 
 ## Research Interests
 
 - Fully Homomorphic Encryption (FHE)
+- Attribute-Based Encryption (ABE)
 - Multi-Party Computation (MPC)
 - Zero-Knowledge Proofs (ZKP)
-- Attribute-Based Encryption (ABE)
 - Post-Quantum Cryptography
 - Verifiable Computation
 - Privacy Enhancing Technologies (PETs)
@@ -32,7 +32,7 @@ I work on secure computation and access control over encrypted data, with a focu
 - *Leveled Homomorphic Encryption over Composite Groups* — AFRICACRYPT 2025
 - *One-Way Homomorphic Encryption: A Composite Group Approach* — AFRICACRYPT 2025
 - *IoT-friendly, pre-computed and outsourced attribute based encryption* — FGCS (Elsevier)
-- *Fine-grained flexible access control: CP-ABE for arithmetic circuits* — Springer
+- *Fine-grained flexible access control: CP-ABE for arithmetic circuits* — Journal of Computer Virology and Hacking Techniques (Springer)
 
 ## Academic Background
 
