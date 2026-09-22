@@ -2,7 +2,7 @@
 
 # Mahdi Mahdavi
 
-Postdoctoral researcher in Cryptography and Privacy Enhancing Technologies (PETs) at Universitat Oberta de Catalunya (UOC).
+Postdoctoral researcher in Cryptography and Privacy Enhancing Technologies (PETs) at Universitat Pompeu Fabra (UPF).
 
 ## Research Interests
 
@@ -36,6 +36,7 @@ I work on secure computation and access control over encrypted data, with a focu
 
 ## Academic Background
 
+- Visiting Postdoc — Universitat Pompeu Fabra (UPF)
 - Postdoc — Universitat Oberta de Catalunya (UOC)
 - Visiting Researcher — KU Leuven (COSIC)
 - PhD in Cryptography — Shahid Beheshti University
